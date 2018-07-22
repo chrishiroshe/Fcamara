@@ -1,0 +1,6 @@
+c:\users\chris\documents\visual studio 2015\Projects\SoldierProgram\SoldierProgram\bin\Debug\SoldierProgram.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\SoldierProgram\SoldierProgram\bin\Debug\SoldierProgram.exe
+c:\users\chris\documents\visual studio 2015\Projects\SoldierProgram\SoldierProgram\bin\Debug\SoldierProgram.pdb
+c:\users\chris\documents\visual studio 2015\Projects\SoldierProgram\SoldierProgram\obj\Debug\SoldierProgram.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\SoldierProgram\SoldierProgram\obj\Debug\SoldierProgram.exe
+c:\users\chris\documents\visual studio 2015\Projects\SoldierProgram\SoldierProgram\obj\Debug\SoldierProgram.pdb

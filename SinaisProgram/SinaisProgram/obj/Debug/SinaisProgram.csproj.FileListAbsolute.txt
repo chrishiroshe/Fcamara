@@ -1,0 +1,6 @@
+c:\users\chris\documents\visual studio 2015\Projects\SinaisProgram\SinaisProgram\bin\Debug\SinaisProgram.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\SinaisProgram\SinaisProgram\bin\Debug\SinaisProgram.exe
+c:\users\chris\documents\visual studio 2015\Projects\SinaisProgram\SinaisProgram\bin\Debug\SinaisProgram.pdb
+c:\users\chris\documents\visual studio 2015\Projects\SinaisProgram\SinaisProgram\obj\Debug\SinaisProgram.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\SinaisProgram\SinaisProgram\obj\Debug\SinaisProgram.exe
+c:\users\chris\documents\visual studio 2015\Projects\SinaisProgram\SinaisProgram\obj\Debug\SinaisProgram.pdb
